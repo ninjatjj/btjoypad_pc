@@ -1,0 +1,7 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=btjoypad
+Exec=/home/tom/Dropbox/bin/btjoypad
+Type=Application
+Icon=btjoypad
+
